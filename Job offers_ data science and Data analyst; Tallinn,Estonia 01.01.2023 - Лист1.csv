@@ -1,0 +1,925 @@
+Job titel,Job description,Company,Employees,Field,Type of work,Level,Remote
+Finance Product Data Analyst,"As a financial institution moving billions of customer money in more than 70 countries, Wise must have bulletproof financials. We need timely, accurate and scalable financial data to be compliant with regulations and make smart business decisions..
+
+We are looking for a Product Analyst to join the Product Onboarding team in Finance. Together with the Accounting team and Regional Controllers you will own the process of understanding products and work with finance engineers to implement the product into a finance engine. This is a core function of the Finance team that ensures recording of accurate, timely and reliable financials for Wise.
+
+This role gives a great opportunity to combine business analyst skills with technical data processing skills . You will get familiar with all key products of Wise, understand the business and also improve your data analysis expertise.
+
+Your day-to-day:
+Working with various stakeholders - Product Managers, finance sub-teams (BI, reporting, tax etc.. ) to understand the various products supported in Wise and future expansions, assist in documentation, communication and launch of new products
+Hands on data maintenance/management – data analysis, data cleanup, automations
+Communicate technical subjects clearly to a range of non-technical stakeholders
+Work on continuous improvement of finance engine in collaboration with engineers to improve scalability and timeliness of finance engine
+
+This role will give you the opportunity to:
+Make an impact – you will have an opportunity to build, own and grow parts of the financial engine of one of the fastest-growing fintech companies in Europe
+Own your path to success – you’ll have a high level of autonomy and responsibility
+Expand your skills and develop for the future – build an efficient engineering solutions, data analysis, financial/regulatory knowledge providing unique opportunities for professional growth analytical data pipelines, reporting and outputs
+Gain more experience that will allow you to grow with Finance as well as the wider Wise team
+Work in an international Finance Team and learn a lot about Finance, financial technology and driving financial sustainability of a fast growing company
+
+A bit about you:
+Strong SQL experience building complex analytical queries, reports and data models. Being familiar with Python as well as visualisation tools (Looker, Tableau etc.) would be an advantage, but not a necessity.
+Worked with large (financial) systems, supporting their growth and working with the provided data.
+Have a strong analytical thought process - who can build automated solutions to control and reconcile finance data.
+Detail oriented, great at working autonomously and meeting deadlines.
+Have an ability to go beyond the numbers and understand the business meaning .
+Willing to deal with internal or external stakeholders (auditor or regulators), communicating reports, definitions, requirements etc.
+
+Bonus points for:
+Worked with PostgreSQL, Snowflake, Airflow
+Have knowledge of BI tools (e.g. Looker, Periscope, or Metabase) and/or visualisation tools (e.g. PowerBI or Tableau)
+Experience in start-ups and/or agile, dynamic work environments
+Experience in financial reporting and comfortable with accounting principles.
+You can understand finance terminology or have strong commitment to learn finance business domain, in particular, knowledge of basic accounting
+You have prior business analyst experience - requirement gathering, documentation, building test cases & post golive support
+
+A bit about Wise:
+
+Since 2011, we’ve had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money across borders.
+
+We’re just at the beginning of our story and we’re growing at an incredible pace. We won’t stop until anyone, anywhere can send, spend and receive money wherever they are, whatever they’re doing. There’s still heaps to do and we can’t do it alone.
+
+Our People:
+
+At Wise, you’ll be joining a movement of people who believe in a better, fairer, more transparent way of moving money around the world. You’ll collaborate to do your best work and take on problems that no one has looked at before.
+
+If you’re keen to learn, grow, try new things and aren’t afraid of a bold plan, you’ll fit right in.
+",Wise,"1,001-5,000",Financial Services,Full-time,Entry level,-
+Data Governance Analyst in Data Governance team in SEB Baltics,"SEB is a leading northern European financial services group, and at the same time, one of the largest IT employers in the Nordics. Banking is changing rapidly, and we are proud of our reputation for being entrepreneurial and innovative in the face of change. Are you a technology and data expert with business related data management mindset? Today we are looking for a Data Governance Analyst ready to accept new challenges in SEB Baltics, Product & Technology Development, Tallinn.
+
+What You Will Be Doing
+
+You will be part of Data Governance team in Finance and Risk tribecreating tools, data policies and rules to help Baltic cross-functional teams to establish a common understanding of data in Product development organization.
+
+As a Data Governance Analyst, you will be responsible for
+
+Leading implementation of a meta data management solution in all three Baltic countries
+Data Governance process implementation, workflow management, automations, and custom integrations
+Support solution architecture, connect functional requirements to technical architecture
+Communicate solution functionality and features to Baltic stakeholders
+Supervise and give advises to Data Stewards
+Understanding of general directions in the relevant technologies, new ideas, best practices, and developments.
+
+Our main technical stack consists of
+
+Collibra, Oracle, SIQ DB
+GIT / Bitbucket
+JIRA
+Who we are looking for
+
+Experience designing or leading systems implementation and manipulating code or setting up systems at least for 2 years and having a solid understanding of technology and software development
+A specific expertise with Data Management solution implementation would be an advantage
+Proficiency in oral and written English
+Experience in banking sector would be an advantage.
+What we offer
+
+Entrepreneurial Scandinavian environment
+Extensive training and learning opportunities
+Work-life balance
+Friendly and welcoming culture
+International opportunities and working environment
+Attractive compensation and benefits
+Access to SEB staff banking with exclusive benefits
+Long-term stability
+Innovative company in forefront of technology
+Challenging, cutting-edge work
+Opportunities to help transform an industry
+Mobility within a large global company
+Chances to make an impact on social or environmental issues
+Excellent office environment
+Agile and modern ways of working
+Empowering environment
+Top class client network and projects
+Deliver world-class service to customers.
+
+Learn more about working at SEB here.
+
+It is our fundamental belief that inclusion and diversity is crucial for our future success. We strive to have an inclusive, value-driven culture where employees feel valued, respected and involved irrespective of who they are, what they believe or where they come from.
+
+Ready to join?
+
+Since we select candidates continuously, feel free to send in your application today, but no later than 15th of January, 2023.
+
+Welcome to a community of tech-savvy and passionate employees from all corners of the world. SEB is in fact one of the largest IT employers in the Nordics. Together we future proof a world of financial flows by exploring and implementing modern digital architecture and state-of-the-art technology. We are driven by collaboration, insight, and friendship. But also, a desire to change and improve. All in all, it creates a balance - where life and a stable yet exciting job can co-exist. If you want to shape tomorrow's bank - continue reading and apply today.",SEB Eesti,"1,001-5,000",Financial Services,Full-time,-,-
+Data Analyst at Baltic Banking AML/Fraud Investigation,"Are you experienced data analyst with interest in applying your skills with hands-on and data driven approach to anti-financial crime related tasks?
+
+In Swedbank You Have The Opportunity To
+Provide analytical insights to anti-financial crime measures, participating in a range of activities from monitoring/screening tool development/fine-tuning to supporting with case investigations
+Act as subject matter expert and co-ordinate on-going activities for improving quality, productivity and effectiveness of monitoring and screening system solutions
+Work in cooperation with related departments in data, analytics and IT systems related projects
+Extract, clean and wrangle large structured and unstructured data sets, exploring and mining them for insights, building analysis pipelines and automating the “boring stuff” in a collaborative environment
+Support (data-driven) reviews and reporting on systems and operations
+Translate data driven insights into actionable next steps and communicate these to an interdisciplinary audience in a coherent manner (both in writing and verbally)
+What Is Needed In This Role
+Computer science fundamentals
+Interpersonal skills: Good communication and cooperation skills, creativity, helping others, knowledge sharing, pro-activeness
+Data search and management (including database querying/SQL)
+Good coding skills for data analysis and reproducible research (Python/R, SQL, Git)
+You are analytical, structured and thorough, able to pay attention to details
+Experience with Comparative analysis, Data visualization and Reporting
+Experience with Data Warehousing and/or Data Lake systems
+Understanding of the financial industry
+Good communication skills in English, both written and spoken
+At Swedbank we believe that people are our core strength. Our culture is built on respect, inclusion and openness. We support continuous development and enable you to take the lead in your career and find inspiring challenges. We take care of your wellbeing by providing a sustainable and flexible working environment. As an employee you will be part of the Group performance program, offered a company pension plan, optional health insurance, as well as other benefits. We are guided by our values: Open, Simple and Caring. It’s all about delivering a positive and unique experience for our customers through collaboration and team-work – together we make a difference.
+
+""Join our team and...
+
+you will be collaborating with anti-financial crime experts in a fast-paced interdisciplinary and international team to contribute into anti-money laundering, anti-fraud, countering terrorist financing and other anti-financial crime measures."" Līga Brutāne, your future leader
+
+We look forward to your application at 30.12.2022. the latest.
+",Swedbank,"10,001+",Financial Services,Full-time,-,-
+Data Analyst,"Bolt is one of Europe’s leading technology companies, working to reshape the future of transportation. To date, we’re already helping over 100+ million people in more than 45+ countries move more conveniently, affordably and safely.
+
+We are looking for a Data Analyst, CS Analytics to join our Customer Support organization at Bolt on our journey to discover and drive performance improvements all over CS division across all markets throughout Europe and Africa and work both with local and HQ teams to achieve our organizational goals.
+
+Your daily adventures will include :
+Proactively solving technical challenges and fixing bugs
+Developing, documenting, and implementing policies, procedures, guidelines, and best practices to ensure data integrity and standardized end-user processes
+Automate and optimize data collection, transformation, loading, analysis, presentation, visualization, and monitoring processes (Build, maintain and improve data pipelines using a wide range of technologies such as AWS Redshift, Airflow, etc).
+Build and manage existing reporting infrastructure for CS.
+Cross team collaboration and discussions
+Address ad-hoc and project based data and reporting asks
+
+What we are looking for :
+A university degree in a technical subject (Computer science, Mathematics or similar)
+2-3 years experience in SQL and Python. Knowledge of DAX, PowerBI, Looker, Google Sheets, Tableau or related technologies are a strong plus.
+Experience in using Workflow Management Systems (e.g. Airflow, Azure Data Factory, Luigi, Chronos)
+Experience with micro-service and distributed systems
+Knowledge of data warehousing and data structures
+Experience dealing with large volumes of data
+Ability to quickly grasp complex business requests and translate them into technical solutions while providing clear explanations to non-technical users if needed
+Self-starter with a result-oriented mindset, able to work in a fast-paced environment
+Strong collaborator with excellent communication skills (both verbal and written)
+Attention to detail, ability to quickly learn and apply new knowledge
+Fluent in the English language.
+Experience in building systems based on cloud service providers (AWS, Azure, Google Cloud).
+Showcasing your Github portfolio",Bolt,"1,001-5,000",Computer Software,Full-time,Entry level,-
+Growth Analyst,"As a Growth Analyst, you will be central to the operational side of Growth team, jumping on an amazing journey to get Bolt to the new heights! You will be working closely with other team members of Growth domain, as well as Expansion Managers, Marketing and Operation teams.
+
+Own campaign spending decisions for your assigned markets and work with your team lead to optimise decisions to help the team reach their growth targets
+
+Implement campaigns end to end and deliver regular operational activities with minimal guidance
+
+Wrangle complex data-sets and work with your team lead to come up with new testing ideas for campaigns in your market. Own the testing roadmap from end to end: setting up A/B tests and analysing results with the tools we have available
+
+Support the team with ad-hoc analysis and bring visibility by building dashboards
+
+BSc in Mathematics, Economics, Computer Science, Information Management, Statistics or Business
+
+Basic understanding of statistics and A/B testing
+
+Experience dealing with large volumes of data. 1-2 years business experience ideal
+
+Good SQL and Excel skills
+
+Analytical mindset
+
+Great written & verbal communication
+
+Team player and hunger to learn",Bolt,"1,001-5,001",Computer Software,Full-time,Entry level,-
+Business Data Analyst,"Job ID: 12551
+
+Would you like to be a part of data quality control for Nordea Retail portfolios across Nordics?
+
+We are looking for a Business Data Analyst to take the role as a data steward / analyst. You will work with data governance, data quality and improvement initiatives, user acceptance test in the credit space.
+
+You’ll join an international team with professional colleagues and will collaborate closely with different stakeholders across Nordea. The position is based in Estonia, Tallinn.
+
+About This Opportunity
+
+What you will be doing:
+supporting data profiling and implementation of the data definitions and data quality rules,
+analysing data quality and verifying suggested data quality improvements,
+investigating data quality issues in a number of banking systems,
+testing new data flows from data quality perspective,
+supporting prioritization of data quality issues,
+driving further analysis of root causes,
+driving remediation planning of data quality issues,
+setting/agreeing KPIs & monitor quality of data.
+
+Who You Are
+
+Collaboration. Ownership. Passion. Courage. These are the values that guide us in being at our best – and that we imagine you share with us.
+
+This role requires persons that enjoy working with data and collaborate with people in understanding how information / data supports our business.
+
+To succeed in this role, we believe that you have:
+3 years experience in the banking/credit domain,
+2-3 years of experience in data analytical skills,
+using data as a basis for conclusions,
+proficient in SQL,
+proficient in English,
+Bachelor's/Master's Degree preferred in Computer Science/ Business Administration.
+
+To our employees we also offer benefits like co-financed sport benefit, additional health insurance, social and team events, additional winter holiday, free access to Udemy courses for your further competence and career development.
+
+If this sounds like you, get in touch!
+
+Next steps
+
+Submit your application no later than 20/01/2023. For more information, you’re welcome to contact Sergejs Babuskins, Sergejs.Babuskins2@nordea.com.
+
+At Nordea, we know that an inclusive workplace is a sustainable workplace. We deeply believe that our diverse backgrounds, experiences, characteristics and traits make us better at serving customers and communities. So please come as you are.
+
+Please be aware that any applications or CVs coming through email or direct messages will not be accepted or considered.",Nordea,"10,001+",Banking,Full-time,Mid-Senior level,-
+Data Analyst in Financial Crime Prevention,"Job ID: 13892
+
+Come and join the dynamic fight against international financial crime using the latest technologies and processes in a leading financial institution!
+
+Due to the continued success of the Data team within FCIIA, we are looking for a data analyst to expand the team.
+
+Joining the Data Team, will provide you with multitude opportunities to expand your capabilities across a full spectrum of data related activities:
+Utilise modern data management tools and techniques to assist in the maintenance and expansion of a robust Hadoop data foundation, used to facilitate FinCrime investigations.
+Provide key input into the design and implementation of data augmentation processes that join complex data sources.
+Be part of the team building next generation data monitoring capabilities, and Analyse complex data sources to provide informed and evidenced answers to evolving Financial Crime questions.
+
+Key to our success is the gift of having an enjoyable working environment with intellectual, driven colleagues, who are keen to solve issues and continually improve the data landscape.
+
+At Nordea, we’re committed to being a partner our customers and society can count on. Compliance and integrity go hand in hand. Joining us means you’ll have an impact on how we do banking – today and tomorrow. So bring your ideas, skills and unique background. With us, you’ll be in good company with plenty of opportunities to collaborate, grow and make your mark on something bigger.
+
+About This Opportunity
+
+This is a role within the Financial Crime Investigation, Intelligence & Analytics (FCIIA) unit in Group Financial Crime Prevention (GFCP).
+
+What you’ll be doing:
+Analysing Hadoop to validate data sources have been ingested as per specification.
+Identifying complex undocumented relationships across disparate data sources.
+Driving the build-out of complex data solutions to facilitate harmonised and simplified data consumption by our down-stream products.
+Integrating with large-scale change programmes to understand and control impact, acquire and implement benefits and improve data quality.
+Producing standardised data focussed requirements to be implemented by our IT partners.
+Documenting data standards, including definitions, business rules and data quality controls.
+Analysing complex data sources to provide informed and evidenced answers to evolving Financial Crime questions.
+Drinking coffee – (not strictly essential, tea and water are both acceptable alternatives).
+Supporting IT architects and projects in mapping of technical tables and fields to data asset-specific data standards.
+Measuring compliance with the data standards and defined data quality targets.
+Liaising with Data Owners, architects and analysts across GFCP and the wider bank to strengthen and continually enhance our data offering.
+
+FCIIA is responsible for the management of cross jurisdictional special investigations and coordination of both operational and strategic intelligence development. We currently have opportunities for curious, driven Data Analysts who are comfortable working on their own or as part of a small team to support the FCIIA Data Asset Owner enhance and govern a multi-layered data landscape.
+
+Our key focus is building and maintaining Advanced Financial Crime capabilities and solutions. We endeavour to continually make improvements to ensure on-going compliance with regulatory requirements and deliver solutions and services that help proactively prevent financial crime.
+
+You are a person who understands data. You can analyse it to answer queries, but also understand where potential limitations exist and can creatively resolve them in either a tactical or strategic manner. The role will allow you to work across several key business units and will offer great opportunities for the right candidate. The position is likely to require some travel to other Nordea international sites. The role is available in one of our offices: in Tallinn, Oslo, Copenhagen, Stockholm or Helsinki.
+
+Who You Are
+
+Collaboration. Ownership. Passion. Courage. These are the values that guide us in being at our best – and that we imagine you share with us.
+
+To build a successful career with us, you’ll work well with others and always act with the stakeholders’ needs in mind. You love learning and trying new things, and you’re excited about bringing your ideas to the table. You’re honest and dependable, willing to speak up even when it’s difficult, and committed to empowering others. You’re passionate about doing a great job.
+
+You have a passion for data and quantitative analysis, you are able to access databases and write your own scripts, and to perform all kinds of data analysis.
+
+Your experience and background:
+At least intermediate level experience using tools and languages such as Excel, SQL, Hadoop, VBA, R and Python.
+Academic degree in highly quantitative discipline or specialisation such as Computer Science Physics, Mathematics, Engineering or Finance.
+Excellent English. You will be expected to freely communicate with and present to colleagues and managers at various levels of seniority.
+Good interpersonal and stakeholder management skills. You enjoy collaboration in a diverse and multicultural environment.
+You are proactive and bring a strong sense of ownership for your tasks and responsibilities.
+You can be relied upon to complete work assigned to you in a timely manner.
+You understand the principles of working with an Agile development approach.
+You are excited to share ideas and findings with your team.
+
+Your application will benefit from demonstrating experience in the below:
+Financial crime prevention.
+Financial industry expertise.
+Experience in working in large scale change programmes.
+Experience using relational databases e.g. Oracle, SQL Server.
+
+If it sounds like you, get in touch!
+
+Next steps
+
+Submit your application no later than 21/01/2023. For more information, you’re welcome to contact Simon Warthoe.
+
+At Nordea, we know that an inclusive workplace is a sustainable workplace. We deeply believe that our diverse backgrounds, experiences, characteristics and traits make us better at serving customers and communities. So please come as you are.
+
+Please be aware that any applications or CVs coming through email or direct messages will not be accepted or considered.
+
+#CVK",Nordea,"10,001+",Banking,Full-time,Mid-Senior level,-
+Data Analysis Intern (Remote Internship - Analyst),"POSITION: Data Analyst Intern
+
+LOCATION: Remote
+
+SCHEDULE: Part-time (10-20h/week)
+
+About Brainnest:
+
+The business management and training company headquartered in Bremen, Germany. We are a success-driven firm that provides management advisory and contracting services customized to help companies from different industries with business management problems. Brainnest runs, leads, and manages complex projects and initiatives. We have begun from scratch when a network of professionals, Ph.D. holders, and highly skilled personnel bring to the business table their practical and academic years of experience to form up a concrete blueprint on which the company has been designed. Since 2020, we offer a combination of expertise, proficiency, and commitment, leveraging our deep industry experience and applying analytical rigor to deliver exceptional results for companies. We proudly provide top-class consulting and training services for a wide range of industries around the world. A well-equipped team, advanced tools, and modern methodologies are some of what we correctly utilize to offer our clients what makes them the best in their fields.
+
+Our team is looking for a Data Analysis Intern to join them in the upcoming weeks. This position is great for an aspiring data analysis professional looking to work on business-critical projects and gain relevant work experience.
+
+Your profile:
+
+Strong communication skills with the ability to discuss any issues with a wide variety of individuals and groups
+Capability to produce content on time, with attention to detail, and an emphasis on identifying and pitching to a target audience
+A well-organized team player with the ability to perform various tasks, act individually, and think creatively
+Familiarity with Microsoft applications and Zoom
+Willingness to learn and develop data analysis skills
+Competitive and proactive attitude
+Fluency in English
+
+You will learn how to:
+
+Get started with business analytics, including accessing and integrating the right data and constructing a data map
+Prepare data, explore it visually, and describe it using statistical methods
+Think and talk like an analyst
+How to collaborate with others in different roles to get the data you need
+Turn information into a work of art and intrigue your audience
+Use a powerful set of business analytics tools to create and share visualizations with others in the organization
+Make smarter, data-driven decisions
+Interpret the data you see, find the data you need, and clean the data to work effectively with the data
+Work with data, including how to import data, work with flat files such as CSV, and create data sets for others
+Use predictive tools in business analytics that can help companies make better decisions
+Use business analytics tools and techniques to leverage sales data and help organizations get more leads, close more deals, and ultimately increase the number of customers
+
+At Brainnest, we’re committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We strive to be a more equal opportunity workplace.",Brainnest,51-200,Business Consulting and Services,Full-time,Internship,Remote
+"Senior Data Analyst, Operational Excellence","We are looking for a Senior Operational excellence Analyst, to join Bolt Food’s Central Operations team on our journey to discover and drive performance improvements all over our markets throughout Europe and Africa and work both with local and HQ teams to achieve our food & grocery delivery goals.
+
+The Central Operations team consists of individuals from all over the world who are closely working together on building the foundations for us to scale our operation globally across the following functions: Sales Operations, Account Management, Partner Operations, Strategic Partnerships and Courier Operations.
+
+You will be helping us build Bolt Food by supporting one or more of these areas in a very dynamic environment. We expect you to be a genuine and proactive team player as you will need to embrace ambiguity at a global scale and approach business challenges in a data-driven and structured manner. It is key to have great attention to detail and the ability to manage multiple projects and stakeholders at once, with strong prioritization skills.
+
+
+Your daily adventure will include :
+
+Data Analysis. Deep-dive into the data to find insights that drive the strategy and implementation of new projects across markets.
+Data Management. Automate and optimise data collection, transformation, loading, analysis, presentation, visualisation, and monitoring processes (build, maintain and improve data pipelines using a wide range of technologies such as AWS Redshift, Airflow, etc).
+Project Management. You will work closely with other global teams in order to resolve the most challenging issues in either our partners, couriers or sales operations.
+Automations. You will automate workflows and find ways to use code/algorithms to make the operation of local teams more efficient and data-driven.
+Review key operational metrics. Availability rate, rejected orders, cooking time, average ratings, delayed orders - these and other metrics define success of our marketplace business. You will be looking for ways to improve them at a global level.
+Reporting & Dashboards. Build and maintain reports and dashboards that support key activities and decision making throughout the central organization.
+
+What we are looking for :
+
+Bachelor’s degree in Mathematics, Economics, Computer Science, Information Management, Statistics or related field.
+At least 3 years of experience in an analytical role dealing with large volumes of data. Experience in consulting, data analysis, business intelligence, and/or implementing data-driven solutions is a plus.
+Amazing Excel, SQL and Python skills.
+Experience with some BI tools and data visualisation like Tableau, Power BI or Looker.
+Excellent communication & written skills in English.",Bolt,"1,001-5,001",Computer Software,Full-time,Mid-Senior level,-
+"Data Scientist, Tools & Workflows","We are building a top European data science team focused on urban mobility and are looking for exceptional people to join our team. You will enjoy an opportunity to use your creativity in algorithm design and apply cutting-edge technologies to develop models, automate and optimize data-driven decisions and enable the entire organization to tap into the value of ML technologies. We partner with people from strong technology companies and computer science institutes.
+
+You’ll be working in the Tools & Workflows (T&W) team which is responsible for optimizing different workflows inside Bolt. Whether helping our Customer Support team handle incoming user requests more efficiently or enabling our mapping specialists to improve our routes and maps, the T&W team has the right tools for the job. The ML projects inside the T&W team range from customer ticket classification and reply automation to workload forecasting and service level optimisation. The challenges of our team include working with 30+ languages (with many low-resource languages) and optimizing work of multi-queue systems with different priorities.
+
+Your daily adventures will include:
+Working with a technical stack consisting of Python, Docker, SageMaker, Airflow, Spark, Presto, Databricks
+Solving real world problems using time series forecasting methods, deep learning & transformers, mathematical optimisation, gradient boosted trees, and more
+Translating business problems to technical specifications
+Handling the entire lifecycle from exploratory queries and notebook prototypes to a working machine learning model or other automation that might be serving thousands of calls per second in production
+Leveraging our in-house data and model platform that allow you to launch new projects in a matter of days
+Working in product feature teams together with data analysts, product managers and software engineers
+Discussing the problems and technical innovations within the broader data science team that provides a pool of peers and mentors
+Deploy and validate solutions for millions of users, enabling fast feedback and measurable added value to customers
+
+We are looking for:
+Industry experience in data science and machine learning (3+ years recommended)
+Awareness of both business and technical aspects of data science
+Experience in Python programming, including libraries like pandas/numpy/huggingface/sklearn
+Industry experience with natural language processing
+Experience writing complex SQL queries
+Understanding and practical experience with statistical hypothesis testing
+Proactive mindset, willingness to take initiative, and work with little supervision
+Enthusiasm to collaborate with different roles in product, analytics and engineering to identify problems, explore trends and untap growth opportunities.
+Strong verbal and writter communication skills in English
+Track record of deploying models to production and measuring the impact
+
+You will get extra credits for:
+Product development experience in a technology company
+Experience with transformers in production
+Experience with queuing systems
+Familiarity with any cloud systems (AWS, Azure, Google app engine)
+Ph.D in a quantitative field",Bolt,"1,001-5,001",Computer Software,Full-time,Entry level,-
+Lead Analyst - Servicing Platform,"We’re looking for a Lead Analyst to join our growing Servicing Tribe across Tallinn, Estonia, Budapest, Hungary or London, UK. This role is a unique opportunity to move Wise’s mission forward, grow as a product leader and help save millions more people money.
+
+Your mission:
+
+Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the world’s first platform to offer true multi-currency banking.
+
+Your mission as a lead is to grow a team of analysts, who would help enable our financial crime prevention teams (Fraud, AML, KYC or Verification) to scale globally and help drop our costs. You’ll also work extensively with our Operations leadership team, to help them as they manage, improve and scale our operations.
+
+Here’s how you’ll be contributing to the Servicing Platform Squad:
+
+Leadership
+Support and develop the analyst function within the tribe, lead a team of ~3 analysts
+Hiring and on-boarding new analysts to the tribe
+Mentoring and providing technical support to analysts
+Guide analyst work across the tribe; e.g. help junior analysts structure projects, define data structure cross team projects
+
+Supporting the Squad
+Support and develop the reporting layer for the area
+You’ll partner with our Operations Leadership team to help them build and improve the quality and efficiency of their processes and their performance metrics
+Our analysts are embedded into the product teams of the tribe, to help project and measure the impact of our product changes, both for our customer self-service and internal tooling
+Work closely with the Data Science team to improve the quality of our data models
+Your team will help us understand our support teams' efficiency, the effectiveness of our tooling and workflows, the accuracy of our forecasting and scheduling. You’ll also help the leads of our support team self-serve with data
+
+Product Improvement
+Do cost analysis and reconciliation
+You’ll oversee our contact data and share contact attribution along with actionable insights across the product teams, helping them engage with the data correctly and in turn reduce contact rates
+You’ll identify opportunities how to use our data and machine learning , in order to automate and optimise our processes and solutions
+
+This role will give you the opportunity to:
+Choose your path to impact - we believe people are most empowered when they can act autonomously. So rather than telling you what to do, you’ll work with your team to create a vision of your own. Of course, you can always gather feedback from smart, curious people across Wise but you’ll have the freedom to make your own calls
+Grow as a leader - Build your team and inspire them to contribute to our mission
+Be part of our mission to make money without borders the new normal
+
+About you:
+You have experience working across operational teams. You can lead operational analysis, support them with data, and drive operational change
+You have led and scaled a team of analysts
+You know your way around the infrastructure of analytics and have worked with cloud warehouses (e.g. Snowflake, BigQuery, or Redshift), have knowledge of BI tools (e.g. Looker, Periscope, or Metabase) and/or visualisation tools (e.g. PowerBI or Tableau)
+You're highly proficient with SQL, able to write structured and sustainable code and continue to develop and refine this skillset
+You have experience structuring basic research experiments (A/B testing)
+You can take complex, fuzzy problems and boil them down into concise and actionable insights
+
+Nice to haves:
+Experience working in KYC/Fraud prevention domains is a plus
+You're proficient with Python, able to automate complex processes and construct robust data pipelines.
+
+Key benefits:
+Flexible working - whether it’s working from home, school plays or life admin we get that flexibility is essential and you’re trusted to do the right thing and be responsible
+Stock options in a profitable company
+Relocation support
+Generous parental leave
+Pension scheme
+Paid sabbatical
+Loads of development opportunities
+A fun work environment with social activities and events
+The opportunity to work with super smart, curious people
+
+We have a hybrid working model at Wise. Different teams will have different requirements depending on the team needs and your role. Find out more about hybrid working at Wise here.
+
+We’re people without borders — without judgement or prejudice, too. We want to work with the best people, no matter their background. So if you’re passionate about learning new things and keen to join our mission, you’ll fit right in.
+
+Also, qualifications aren’t that important to us. If you’ve got great experience, and you’re great at articulating your thinking, we’d like to hear from you.
+
+And because we believe that diverse teams build better products, we’d especially love to hear from you if you’re from an under-represented demographic.
+Note: Due to Christmas and New Years please expect a response to your application w/c 2nd January at the latest
+
+If you want to find out more about what it's like to work at Wise visit Wise.Jobs.
+
+Keep up to date with life at Wise by following us on LinkedIn and Instagram.",Wise,"1,001-5,000",Financial Services,Full-time,Mid-Senior level,-
+Biostatistician 2 - Real World Evidence (Home-Office Based),"Biostatistician 2- Real World Evidence
+
+Join us on our exciting journey!
+
+Home-Based/Hybrid: Portugal, Czech Republic, Latvia and Estonia.
+
+IQVIA Real-World Evidence (RWE) teams work with clients to help them collect and use real-world data to generate evidence to meet the needs of regulators, payers, providers, and patients.
+
+Our approach is unique in the industry and is defining the way companies develop and apply real-world evidence for healthcare decision making.
+
+We are collaborative, intellectually curious, entrepreneurial, and constantly looking for opportunities to harness the value of real-world evidence in an evolving industry.
+
+We have one of the largest Biostatistics departments within the industry and due to continued growth, we are seeking new brave minds to join our innovative department.
+
+Job Overview:
+
+As a Biostatistician 2, you will be given access to cutting-edge in-house technology, allowing you to work on global projects across a variety of therapeutic areas and thanks to our development opportunities and mentoring at all levels, you will be able to progress your long-term career in the direction you choose.
+
+You will develop statistical methods sections of protocols and prepare statistical analysis plan. Furthermore write specifications for analysis files, consistency checks, tables, and figures.
+
+Communicate with clients regarding study protocol or statistical analysis issues as they arise.
+
+Interpret analyses and write statistical sections of study reports.
+
+Key Responsibilities:
+Act as a statistical lead on studies.
+Working closely with the Project Team Lead and supervisor to deliver on time, with high quality and within budget.
+Writing and performing quality control (QC) reviews of Statistical Analysis Plan (SAP) and Shells.
+Writing and maintaining programming specifications. Programming assigned datasets to industry standards.
+Assisting with protocol development, sample size calculation.
+Building and maintaining effective customer relationships, driving statistical discussions, providing support and / or guidance for statistical activities.
+Managing scope of work and budget, and providing revenue and resource forecasts for single studies
+Supporting colleagues and providing motivation as needed.
+Requirements:
+BSc or MSc degree in Biostatistics or related field, and 4-6 year´s relevant experience within the life-science industry
+Familiarity with moderately complex statistical methods
+Good working knowledge of SAS or R
+Great Communication Skills in English
+IQVIA is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry. We believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. Learn more at https://jobs.iqvia.com",IQVIA,"10,001+",Hospitals and Health Care,Full-time,-,Hybrid
+"Data Scientist, Payment Fraud","We are building a top European data science team focused on urban mobility and are looking for exceptional people to join as one of the senior members of the team. You will enjoy an opportunity to use your creativity in algorithm design and apply cutting-edge technologies to develop models, automate and optimize data-driven decisions and enable the entire organization to tap into the value of ML technologies. We partner with people from strong technology companies and computer science institutes.
+
+
+What this role is about:
+
+You’ll be working in the Fraud team which is responsible for detecting and preventing payment fraud (stolen credit cards, chargebacks, campaigns fraud). Fraud team is a cross functional team consisting of product managers, fraud data analysts, software engineers and data scientists. Our fraud engine is a high load system which inspects every order across all of our business lines to detect potential fraudulent behaviour and financial loss to the company. See what Elizaveta from our data science team wrote about How to stop fraud with ML — best practices at Bolt.
+
+Your daily adventures will include:
+
+Working with a technical stack consisting of Python, Docker, SageMaker, Airflow, Databricks
+Building fraud prediction models using gradient boosted trees and other prediction approaches
+Designing and running A/B tests. Interpreting test results and proposing improvements to the Fraud product
+Optimising the models across all our markets to minimise losses from fraudulent transitions (false negatives) and prevent unnecessary friction for regular users (false positives)
+Handling the entire lifecycle from exploratory queries and notebook prototypes to a working machine learning model or other automation that might be serving thousands of calls per second in production
+Leveraging our in-house data and model platform that allow you to launch new projects in a matter of days
+Working in product feature teams together with data analysts, product managers and software engineers
+Discussing the problems and technical innovations within the broader data science team that provides a pool of peers and mentors
+Deploy and validate solutions for millions of users, enabling fast feedback and measurable added value to customers
+
+We are looking for:
+
+Experience in Python programming, including libraries like Pandas/Numpy/sklearn/OR-tools
+Experience writing complex SQL queries
+Experience in applying machine learning algorithms to real world problems
+Basics of software version control, cloud infrastructure, build and deployment pipelines
+Understanding and practical experience with statistical hypothesis testing
+Proactive mindset, willingness to take initiative and work with little supervision
+Enthusiasm to collaborate with different roles in product, analytics and engineering to identify problems, explore trends and untap growth opportunities
+Strong verbal and written communication skills in English
+
+You will get extra credits for:
+
+Previous experience in fraud detection in payments
+Track record of deploying models to production and measuring the impact
+Experience conducting control group tests in production environments
+Familiarity with any cloud systems (AWS, Azure, Google app engine)
+MSc or PhD in a quantitative field",Bolt,"1,001-5,000",Computer Software,Full-time,Entry level,-
+"Lead Business Intelligence Analyst, Growth","As a Lead Business Intelligence Analyst, you will be playing a key part in fuelling our rocket growth. You will be responsible for developing and maintaining our business reporting, enhancing Looker data model and creating awesome visualization to support the Growth Analytics team and Bolt Management with BI needs.
+
+Your daily adventures will include:
+Develop business reports and dashboards for Growth Analytics team
+Perform data analysis by writing SQL queries to answer ad-hoc business questions and provide insights on customer base, marketplace balance, growth metrics for our team
+Suggest new metrics, tools, processes for our reporting to ensure consistency and reliability of data-driven decision-making across the organization
+Work with cross-teams to audit the definitions of business metrics and accuracy of data, improve data model and data pipelines
+Implement appropriate solutions for improving data availability and load times e.g., caching query data, persisting tables, etc
+Support Data Engineers in migration to Data Lake to decrease data latency in reporting
+
+We Are Looking For:
+5+ years of experience in Business analytics, marketing, data visualization, data modeling, information systems, computer science, data engineering or closely related fields.
+Passion for understanding the business needs and processes, visualization of business insights and automation of BI needs.
+Experience with the majority of the following skills and tools: SQL, Looker / PowerBI / Tableau, R, Python, Advanced Excel, Excel Macros, Airflow, Databricks, Data Modeling.
+Amazing attention to details and high self-organization + awesome visualization skills.
+Ability to communicate effectively with different stakeholders and work collaboratively with team members from different backgrounds.
+
+You will get extra credits for:
+Experience in gathering the business needs and developing the C-level reporting.
+Experience in designing data models, ETL and data pipelines
+Automation of reporting in google-sheets.
+1-3 years experience with Looker: LookML models development, looks, and dashboards.",Bolt,"1,001-5,000",Computer Software,Full-time,Mid-Senior level,-
+"Data Scientist, Financial Planning","We are building a top European data science team focused on urban mobility and are looking for exceptional people to join our team. You will enjoy an opportunity to use your creativity in algorithm design and apply cutting-edge technologies to develop models, automate and optimize data-driven decisions and enable the entire organization to tap into the value of ML technologies. We partner with people from strong technology companies and computer science institutes.
+
+
+Some examples of real life projects we work on:
+
+Time series forecasts of financial and marketplace indicators with custom horizons
+Simulate of marketplace states with regard to particular investment scenarios
+Macro level budget optimisation: what markets and when should get investments to maximise profits and revenue
+Micro level budget optimisation: what customer segments and when should get monetary subsidiaries to maximise activation/engagement/retention
+Model the influence of external factors – such as weather, COVID, special events – on company financials.
+
+Your daily adventures will include:
+
+Develop and maintain predictive models to stabilize and improve accuracy of financial forecasts for different business verticals.
+Research, test and apply novel forecasting techniques and methods for existing solutions.
+Deploy models to production using AWS and internal model lifecycle tooling.
+Solve optimization problems for campaigns budget allocation within local and global constraints.
+Communicate and present results to product and business stakeholders.
+Working with a technical stack consisting of Python, Docker, SageMaker, Airflow, Redshift
+
+We are looking for:
+
+Industry experience in machine learning and time series analysis (3+ years recommended)
+Proactive mindset, willingness to take initiative and work with little supervision
+Open to collaboration team player with effective communication skills
+Experience in practical machine learning: GLM/Regression, boosting, bagging, simulation, scenario analysis, feature engineering, modeling, error analysis etc.
+Experience in time series analysis, modelling multivariate time series, familiarity with existing forecasting techniques
+Ability to write production level code
+Experience writing complex SQL queries
+Track record of deploying models to production and measuring the impact
+
+You will get extra credits for:
+
+Experience with multivariate time series forecasting methods
+PhD in Computer Science, statistics or related quantitative fields, or a Master's degree with equivalent industry experience
+We get also excited if you have background in econometrics, operations research, simulation or quantitative analysis of behaviour",Bolt,"1,001-5,000",Computer Software,Full-time,Entry level,-
+"Data Scientist, Campaigns","We are building a top European data science team focused on urban mobility and are looking for exceptional people to join our team. You will enjoy an opportunity to use your creativity in algorithm design and apply cutting-edge technologies to develop models, automate and optimize data-driven decisions and enable the entire organization to tap into the value of ML technologies. We partner with people from strong technology companies and computer science institutes.
+
+
+Some examples of real life projects we work on:
+
+Uplift modelling: identify users who likely respond to promo campaigns and cover its cost in the long term.
+Customer segmentation: discover rider, driver and eater segments for efficient campaigns targeting.
+Prioritize acquisition channels based on customer lifetime value.
+Discover user sessions that may be converted only with discounts
+
+Your daily adventures will include:
+
+Machine learning and statistical model development and its deployment into production environment
+Setting up A/B tests, collecting, interpreting its results and communicating to stakeholders
+Studying historical user behaviour data to identify opportunities for optimisation
+Implementation of causal inference framework to quantify causal effects of particular user campaigns
+Working with a technical stack consisting of Python, Docker, SageMaker, Airflow, Redshiftn
+Collaborating with data analysts, data scientists, product managers and software engineers in feature teams
+
+We are looking for:
+
+Industry experience in machine learning and data analytics (3+ years recommended)
+Knowledge of statistics, probability and causal inference
+Understanding experimental design such as A/B testing
+Strong product thinking, ability to communicate and persuade, problem solving
+Ability to map business and product problems on data science framework
+Effective communication and problem solving
+Familiarity with customer segmentation (RFM, HVC, LTV, CAC, similar audience models, etc.)
+Proactive mindset, willingness to take initiative and work with little supervision
+Team player with excellent communication skills
+Experience writing complex SQL queries
+Track record of deploying models to production and measuring the impact
+
+You will get extra credits for:
+
+Experience in modelling and successful implementation of causal inference
+Ph.D. in Computer Science, statistics or related quantitative fields, or a Master's degree with equivalent industry experience
+We get also excited if you have background in econometrics, operations research, simulation or quantitative analysis of behaviour",Bolt,"1,001-5,000",Computer Software,Full-time,Mid-Senior level,-
+Business Intelligence Analyst - Estonia,"We are looking for a Business Intelligence Analyst who is an SQL enthusiast, collaborator, and team player to join the Services Operational Excellence team within the Customer Support and Services organization in Estonia. If you are inquisitive and searching for an opportunity to find answers in data, let’s talk!
+
+You possess solid knowledge and hands-on experience with data structures and data modeling. You are a creative thinker who can turn data into insight that supports business decisions. You are resourceful and able to think outside the box to solve complex problems with a positive outlook and can work both independently and in a team environment. You are open to ideas and willing to learn and grow. You thrive in a dynamic and fast-paced environment. You are detail-oriented and deadline-driven to deliver accurate results on time. If this describes you, you’re the right candidate for the role!
+
+Responsibilities
+
+Partner closely with the business and technical teams to translate business requirements into technical specifications and build reports and dashboards in Power BI
+Analyze data results and communicate findings in a simple and concise format to business stakeholders
+Collaborate with IT to understand the customer support and services data architecture
+Migrate existing reports and interfaces from other platforms to Power BI
+Work closely with the business and technical teams to ensure the project delivery meets the business requirements
+Research and find solutions for issues related to the reporting environment
+
+Basic Qualifications
+
+Excellent English Skills verbal, written, and visual presentations
+Bachelor’s Degree in Computer Science, Business or another related discipline
+Experienced in collecting user requirements with the ability to understand complex business needs and translate them into solutions in Power BI
+2+ years of industry experience authoring BI report solutions with Microsoft Power BI platform
+Demonstrated aptitude writing complex SQL statements and an understanding of logical and physical data modeling
+Versed in the Microsoft Office Suite with an emphasis on Excel (experience coding in VBA a plus)
+Ability to work in teams and as an individual contributor – strong consultative and consensus-building skills
+Strong analytical and problem-solving skills
+
+Preferred Qualifications
+
+1+ year of experience with PowerBI
+
+Considering COVID-19, we are still hiring but conducting virtual interviews to keep our candidates and employees safe. Many roles will be remote or work from home to comply with current safety regulations.
+
+We call this Pervasive Data Intelligence. It’s the answer to the complexity, cost, and inadequacy of today’s analytics. And it's the way Teradata transforms how businesses work and people live through the power of data throughout the world. Join us and help create the era of Pervasive Data Intelligence.
+
+About Apeiron Sumus:
+
+Apeiron Sumus is a Microsoft Partner dedicated to provide specialized services for cloud adoption and transformation.
+
+Powered by JazzHR
+",ApeironSumus,51-200,Information Technology & Services,Full-time,Mid-Senior level,-
+Data Scientist,"We are building a top European data science team focused on urban mobility and are looking for exceptional people to join our team. You will enjoy an opportunity to use your creativity in algorithm design and apply cutting-edge technologies to develop models, automate and optimize data-driven decisions and enable the entire organization to tap into the value of ML technologies. We partner with people from strong technology companies and computer science institutes.
+
+
+Some examples of real life projects we work on:
+
+Balancing demand and supply through algorithmic pricing
+Optimising the potential investment portfolio over markets and product lines
+Processing documents at scale through computer vision and OCR
+Using recent traffic patterns for predicting accurate ETAs
+Inferring missing map elements using the GPS traces of our drivers
+A/B experimentation platform and agent-based simulation of cities
+User behaviour pattern analysis and prediction
+
+Your daily adventures will include:
+
+Working with a technical stack consisting of Python, Docker, SageMaker, Airflow, Spark, Redshift
+Solving real world problems using gradient boosted trees, uplift modelling, mathematical optimisation, time series forecasting, recommender systems, deep learning and more
+Translating business problems to technical specifications
+Handling the entire lifecycle from exploratory queries and notebook prototypes to a working machine learning model or other automation that might be serving thousands of calls per second in production
+Leveraging our in-house data and model platform that allow you to launch new projects in a matter of days
+Working in product feature teams together with data analysts, product managers and software engineers
+Discussing the problems and technical innovations within the broader data science team that provides a pool of peers and mentors
+Deploy and validate solutions for millions of users, enabling fast feedback and measurable added value to customers
+
+We are looking for:
+
+Industry experience in data science and machine learning (3+ years recommended)
+Awareness of both business and technical aspects of data science
+Experience in Python programming, including libraries like Pandas/Numpy/sklearn/OR-tools
+Experience writing complex SQL queries
+Understanding and practical experience with statistical hypothesis testing
+Proactive mindset, willingness to take initiative and work with little supervision
+Enthusiasm to collaborate with different roles in product, analytics and engineering to identify problems, explore trends and untap growth opportunities
+Strong verbal and written communication skills in English
+Track record of deploying models to production and measuring the impact
+
+You will get extra credits for:
+
+Product development experience in a technology company
+Experience with experimentation or simulation
+Experience with causal inference from observational data
+Familiarity with any cloud systems (AWS, Azure, Google app engine)
+PhD, MSc or BSc in a quantitative field",Bolt,"1,001-5,000",Computer Software,Full-time,Mid-Senior level,-
+"Senior Data Analyst, Platform","We are looking for a Senior Product Analyst who will own and develop the analytics framework for one of our Platform teams. Used across all Bolt verticals, Platform technologies range from Geospatial services, Document & Identity verification, and Communication channels to Customer Support interfaces and Automation tools.
+
+
+This role is aimed at those who love figuring out a complex problem but are also able to estimate the impact generated by the solution. As one of the pillars of the product team, you will be working closely with product managers, engineers, data scientists, designers and operations specialists. By being a data expert equipped with product and business sense, you will be discovering actionable insights that will improve the experience of 75+ million Bolt users across 300+ markets.
+
+
+Your daily adventures will include:
+
+Define product goals (KPIs), build data models and craft product dashboards.
+Design A/B experiments, analyse the results, and provide decision recommendations.
+Collaborate with stakeholders (Analysts, PMs, Engs) from other teams and advise them on how to leverage Platform’s data.
+Write clear and concise reports of your analyses and educate relevant stakeholders about your findings
+Estimate ROI of product initiatives, contribute to product roadmaps and help define requirements for engineers.
+Explore data from multiple sources and help understand how products are used and guide the product development process.
+
+We are looking for:
+
+Strong SQL and Python or R skills.
+A clear understanding of statistical modelling and experimental design.
+Ability to transform large-scale data analysis into interpretable, easy-to-understand action points.
+Proactive attitude, sense of ownership and ability to work autonomously.
+Experience with BI and data visualization tools (Looker, Mixpanel, Tableau, etc).
+Fluent in English.
+
+You'll get extra credits for:
+
+Experience in one or more of the following domains: Geo (Routing, Positioning, Maps, Places), Identity (KYC, Identity fraud), and Communications (Chat, NLP, VoiP).
+Experience in building products in a startup or tech/product company.
+Practical experience with Machine Learning frameworks.
+
+Why you’ll love it here:
+
+Play a direct role in shaping the future of mobility.
+Impact millions of customers and partners in 500+ cities across 45 countries.
+Make your mark at one of the fastest-growing organisations in Europe.
+Work in fast-moving autonomous teams with some of the smartest people in the world.
+Accelerate your professional growth and enjoy unique career opportunities.
+Get a rewarding salary and stock option package that lets you focus on doing your best work.
+Enjoy health care coverage, extra vacation days, and plenty of other perks to help you be the best you!",Bolt,"1,001-5,000",Computer Software,Full-time,Mid-Senior level,-
+"Senior Data Analyst, Product","Our whole platform lives and breaths on data and in order to succeed we need to be a highly data-driven company. Every step of our product development is accompanied by Data Analysts that estimate the impact, collaborate on delivery and measure the effect. We are solving the most interesting data problems on a scale - more than 40+ countries and 5 different products. We believe that every decision can and should be accompanied by data - if you feel the same way, you’ll fit right in!
+
+
+Your daily adventures will include:
+
+Interpret data, analyze results using statistical techniques and provide reports to make business recommendations (e.g. cost-benefit, forecasting, impact analysis)
+Proactively work together with other stakeholders to communicate data-based insights
+Identify, analyze, and interpret trends or patterns in complex data sets
+Work with Product Managers to prioritize business and information needs
+
+We are looking for:
+
+BS in Mathematics, Economics, Computer Science, Information Management or Statistics
+At least 2-4 years of experience dealing with large volumes of data
+Amazing SQL skills
+Experience with Python or R
+Experience with some BI tools and data visualization
+Experience ML frameworks is a plus
+Great written communication
+Experience with business and financial analytics is a big plus
+Fluent in English
+
+Why you’ll love it here:
+
+Play a direct role in shaping the future of mobility.
+Impact millions of customers and partners in 500+ cities across 45 countries.
+Make your mark at one of the fastest-growing organisations in Europe.
+Work in fast-moving autonomous teams with some of the smartest people in the world.
+Accelerate your professional growth and enjoy unique career opportunities.
+Get a rewarding salary and stock option package that lets you focus on doing your best work.
+Enjoy health care coverage, extra vacation days, and plenty of other perks to help you be the best you!",Bolt,"1,001-5,000",Computer Software,Full-time,Mid-Senior level,-
+"Senior Data Analyst, CRM Marketing","We are looking for a Senior Data Analyst who will own and develop the analytics framework for our CRM Marketing team. As a Senior Data Analyst you will be leading research projects and building global frameworks, defining the ways in which we can improve how we communicate with 100+ million Bolt users and partners across 300+ markets.
+
+Your daily adventures will include:
+Developing the methodology and playbooks for analyzing the impact of communications; and helping with applications by the team members in analytics and communications teams
+Improving users segmentation and targeting
+Setting up and analyzing the experiments, proposing and testing hypothesis for driving additional impact from communications
+Interpret data, analyze results using statistical techniques and provide reports to make recommendations (e.g. impact analysis, user’s clustering, forecasting)
+Working closely on evaluation and improvement of communication and analytical tools with Marketing Technology, Product, and CRM Marketing teams to make sure that we have all the needed functionality for the most impactful communications and impact measurement
+Guiding a small team of data analysts
+
+What we’re looking for:
+Previous experience of working with CRM and/or user lifecycle data analytics
+At least 4 years experience in dealing with large volumes of data as an analyst, statistician or econometrician
+Solid grasp of statistics
+Extensive experience in A/B testing and other experimentation techniques
+Advanced SQL
+Strong skills in data analysis and modeling using Python or R
+Experience with ML frameworks
+Experience with causal inference, uplift modeling and other methods relevant for analysis of marketing communications
+Good written and verbal communication, fluency in English
+
+Previous work experience in a similar position in a large company or in an agency
+
+Data Science background
+
+Previous work experience with large customer engagement/communication platforms (think Clevertap, Braze, Leanplum or similar).
+
+Experience in leading mid-to-senior data analysts formally or informally",Bolt,"1,001-5,000",Computer Software,Full-time,Mid-Senior level,-
+"Senior Data Analyst, Marketing","We are looking for a Senior Data Analyst to join our Marketing team who will be responsible for shaping the way we communicate with our existing customers and partners across all sides of Bolt's business. You will be the one who helps us to identify the best ways to engage with our riders, drivers, eaters by using our marketing and business data.
+
+We expect you to focus a lot on researching the best methods for evaluating communication effectiveness or increasing personalisation - and then validating together with other team members in Lifecycle Marketing (CRM), Marketing Technology, Data Engineering, and Data Science.
+
+As a Senior Data Analyst, you will need to have a solid grasp of statistics, be able to apply it across a wide range of problems and explain the results to team members and stakeholders.
+
+Your daily adventures will include :
+Developing the methodology and playbooks for analysing the impact of communications; and helping with applications by the team members in analytics and communications teams
+Improving users segmentation and targeting
+Setting up and analysing the experiments, proposing and testing hypotheses for driving additional impact from communications
+Interpret data, analyse results using statistical techniques and provide reports to make recommendations (e.g. impact analysis, user’s clustering, forecasting)
+Working closely on evaluation and improvement of communication and analytical tools to make sure that we have all the needed functionality for the most impactful communications and impact measurement.
+
+What we are looking for :
+At least 2 years experience dealing with large volumes of data as an analyst, statistician or econometrician
+Previous experience with working with user data
+Solid grasp of statistics
+Demonstrated experience with A/B testing and other experimentation techniques
+Advanced SQL
+Strong skills with analysis and modeling in Python or R
+Experience with ML frameworks is a plus but not mandatory
+Good written communication - Fluent in English.
+Experience with working with CRM or marketing communications
+Experience with causal inference, uplift modelling, or other methods relevant for analysis of marketing communications
+Previous work experience on a similar position in a large company or in an agency
+Previous work experience in large customer engagement/communication platforms (think Clevertap, Braze, Leanplum or similar).",Bolt,"1,001-5,000",Computer Software,Full-time,Mid-Senior level,-
+Data Analyst (Global Remote),"PASSION.io is building the future of the Creator economy. Our mission is to empower Creators to unlock the power of their passion and make an impact on their audiences. We are building a SaaS platform that enables Creators to seamlessly build their own mobile apps with their own branded content. The Passion.io platform provides Creators with the tools and features needed to run their business from anywhere at any time from their mobile phone. We are an international remote team with the majority of our customers residing in the US.
+
+We are looking for a passionate and experienced Data Analyst to join our team! If you are someone whose goal is to extract value from data by uncovering useful information and enabling data-driven business decision-making we would love to meet you!
+
+This is an exciting career move for someone with first experience in a global management consulting firm since you will report to our VP Finance and work closely with our CEO. You will be our first Data hire with the potential to grow into the Head of Data position.
+
+Requirements
+
+What you'll bring to the team
+You are innately curious, empathetic, analytical, and a fast learner
+You love being able to take the science of Data to actively contribute to the decision making process in Customer Success, Product, and Marketing.
+You are driven by curiosity and enthusiasm for learning new technologies and skills to turn data into value-creating insights to propel retention and lifetime value in SaaS
+You thrive on discovering “aha moments” and gaining deep understanding of what drives leading metrics and KPIs
+You are keen to validate current assumptions and hypothesis, as well as have the confidence to question them based on findings you uncover
+Fluent in English.
+
+What You'll Be Working On
+The ideal candidate is able to translate business questions into an analysis, write SQL queries to pull the required data, and apply the appropriate mathematical rigor to extract a meaningful answer to the question
+You will assume ownership of our data infrastructure and processes, and make improvements where appropriate as we build a best-in-class data organization
+You will engage with Customer Success, Product, and Marketing teams to build dashboards and reports that monitor KPIs and metrics
+You will provide data that is accessible and updates in real-time
+You will become a master of retention/churn drivers and insights
+
+Benefits
+
+What we offer you
+Steep learning curve: Expect the steepest learning curve you have ever experienced - we are building a playground at passion.io to become the best version of ourselves. Meet and work with successful people worldwide to learn their success secrets.
+Values-based company: Be part of an open, honest, creative, and results-driven environment where your opinion is highly valued. We want to change the world for the better by providing value to others.
+High-growth environment: You will be part of a strongly growing company, with the opportunity to develop into a key contributor with crucial responsibilities.
+Personal and professional development: You will tackle projects across departments and thereby gain an invaluable tool box for successfully tackling bigger and bigger challenges.
+Autonomy / entrepreneurial work-style: You will only be measured by the results you produce and are in the driver’s seat, with full flexibility.
+Remoteness and flexibility: You will join our truly international remote team from over 20 countries and work from anywhere you wish.
+Growth: We reward top performers with promotions and space to grow into higher positions.
+
+Want to know what it's like to work at Passion.io?",Passion.io,51-200,E-learning,Full-time,-,Remote
+Data Scientist,"Creditstar Group is a rapidly growing international consumer finance company, headquartered in Tallinn, Estonia and operating in multiple European markets.
+
+At the core, we are a financial technology company that uses automated processes, algorithms and data analysis to make financial instruments easily available to a population of more than 175 million people in our target markets. We are a team of ambitious professionals who value innovation, speed, high growth and high performance. For more information on the group, please visit www.creditstar.com.
+
+Our vision is to build and deliver digital banking products of the future. If you want to be part of this, here is your chance.
+
+YOUR POSITION:
+
+DATA SCIENTIST
+
+YOUR ROLE:
+
+How about being a key player in driving the data strategy in the company? We are looking for a Data Scientist who will own and develop the data science framework for all our Products across the Group.
+
+As a Data Scientist you will be at the forefront of underwriting development, defining how and what data should be collected to improve our decision making and enable discovery of actionable insights that will improve the experience of our customers in 8 countries. You will be helping Product and Risk Managers make data-informed decisions and lead your own projects. With us, you can push your creative ideas forward and take care of making innovation in the data-driven world!
+
+YOUR DAILY ADVENTURES WILL INCLUDE:
+Build models based on data to predict customers’ payment behavior.
+Design A/B experiments, analyze the results, and provide decision recommendations.
+Work in tight cooperation with stakeholders to analyze complex data and provide data-driven insights for business-critical decisions.
+Review the work and provide feedback to data analysts and data scientists.
+Share your knowledge and provide training on best practices in data processing and analytics methodologies.
+Define data science strategy, communicate and align it with the management and other teams.
+Propose, assess, prioritize, and lead data science projects.
+Work closely with data engineers to ensure the best possible data infrastructure across products.
+Research and implement best practices and standards in Data Science across product teams.
+
+Requirements
+At least 3 years professional experience related to data science.
+BS in Mathematics, Economics, Computer Science, Physics or Statistics
+Excellent knowledge of SQL and Python (or a similar scripting language).
+Knowledge of machine learning and statistical modeling techniques.
+Strong analytical and problem-solving skills.
+Good project management skills.
+Proactive attitude, sense of ownership, ability to work autonomously but also to coach other team members
+Having a startup mindset and willingness to work in a fast evolving environment.
+Fluency in spoken and written English.
+Passion about what you do.
+
+BONUS POINTS IF YOU HAVE:
+Experience of project and people leadership.
+Good understanding of Dimensional Modeling techniques.
+Previous work experience in the Financial/Fintech sector.
+
+Benefits
+Dynamic, challenging, and rewarding work within a rapidly growing international company;
+Chance to contribute to the business' decision-making processes and making a tangible impact;
+Talented and fun international team who always has your back;
+Supportive environment facilitating growth and achievement;
+Flexible working hours;
+Regular company parties and events;
+Office with games, pool table, free snacks/drinks and the possibility to work remotely;
+Powerful equipment and modern tools;
+On-demand sponsorship for your professional development;
+Competitive remuneration package.",Creditstar Group,51-200,Financial Services,Full-time,-,-
